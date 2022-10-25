@@ -402,10 +402,10 @@ PODS:
     - React-jsi (= 0.68.1)
     - React-logger (= 0.68.1)
     - React-perflogger (= 0.68.1)
-  - RNFBApp (14.9.0):
+  - RNFBApp (14.9.1):
     - Firebase/CoreOnly (= 8.15.0)
     - React-Core
-  - RNFBMessaging (14.9.0):
+  - RNFBMessaging (14.9.1):
     - Firebase/Messaging (= 8.15.0)
     - React-Core
     - RNFBApp
@@ -656,8 +656,8 @@ SPEC CHECKSUMS:
   React-RCTVibration: 9e344c840176b0af9c84d5019eb4fed8b3c105a1
   React-runtimeexecutor: 7285b499d0339104b2813a1f58ad1ada4adbd6c0
   ReactCommon: bf2888a826ceedf54b99ad1b6182d1bc4a8a3984
-  RNFBApp: d3a0f69a3cc67c609f962acf67f483a841ffc49f
-  RNFBMessaging: fefc7807402d03f418bdc5e80c60fbc91d943c50
+  RNFBApp: fd23737680ed2bdde41ca27d8bfb171b6d668c6b
+  RNFBMessaging: cd273b4dcacf98c83a25ce1711c8c85511573990
   SocketRocket: fccef3f9c5cedea1353a9ef6ada904fde10d6608
   tealium-react-native: 002d2403ecac84a6a651fab51188f3a8498d7ff6
   tealium-react-native-swift: 13e9fd505382469ae6021b5fe3f9a9b90a1685bc
